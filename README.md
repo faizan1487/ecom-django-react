@@ -2,10 +2,6 @@
 
 Live Demo can be viewed at http://mustafa007.pythonanywhere.com/#/
 
-
-![DEMO](../master/static/images/proshop_django_demo.png)
-
-
 # Features
 * Full featured shopping cart
 * Product reviews and ratings
